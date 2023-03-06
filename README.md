@@ -1,9 +1,7 @@
 ### Hi there 👋
-기본형
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[gyuheeb]&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-ex)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/gyuheeb/github-readme-stats)
 
 <!--
 **gyuheeb/gyuheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
